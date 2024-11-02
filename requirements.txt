@@ -1,0 +1,14 @@
+pandas  # this is for the data cleaning
+mlflow  # this is for tracking the metrics
+notebook  # this is for the working on the jupyter notebook
+numpy  # this is for the cleaning also
+scikit-learn  # this is for the machine learning
+matplotlib  # this is for the visualization of different graphs
+python-box
+pyYAML   # this is for the yaml file
+tqdm 
+ensure
+joblib   # this is for saving the model 
+types-PyYAML
+Flask   # this is for the development of the project
+Flask-Cors
